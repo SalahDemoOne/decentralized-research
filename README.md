@@ -1,4 +1,4 @@
-# 📖  [nicola](http://nicola.io)'s decentralized-research
+# 📖  Salah's decentralized-research list!
 > This is the place where I list papers I am reading, take notes, write ideas and plan research and collaborate with others
 
 ##### How to participate
